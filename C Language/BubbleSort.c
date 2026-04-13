@@ -1,5 +1,5 @@
 //bubble sort using C
-//brute force approachs
+//brute force approach
 #include<stdio.h>
 int main(){
    int n,i,j,min,temp;
