@@ -1,5 +1,5 @@
 //selection sort using C language
-
+//brute force approach
 #include<stdio.h>
 int main(){
    int n,i,j,min,temp;
