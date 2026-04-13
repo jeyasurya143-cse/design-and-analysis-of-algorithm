@@ -1,4 +1,4 @@
-//sorting using merge sort in c++ language
+//sorting using merge sort in c++ language (decrease and conquer)
 
 #include<iostream>
 using namespace std;
