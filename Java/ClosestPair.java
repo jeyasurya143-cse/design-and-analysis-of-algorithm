@@ -1,5 +1,5 @@
 //finding the distance between the two points using brute force approach
-
+//divide and conquer
 import java.util.Scanner;
 
 public class ClosestPair {
