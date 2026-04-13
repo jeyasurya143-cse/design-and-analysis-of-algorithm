@@ -1,5 +1,5 @@
 // String matching using brute force approach
-
+//divide and conquer
 import java.util.*;
 
 public class StringMatch {
