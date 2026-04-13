@@ -1,5 +1,5 @@
 //sorting using heap sort in C++ language
-
+//transform and conquer
 #include<iostream>
 using namespace std;
 void printArray(int arr[], int n) {
