@@ -1,5 +1,5 @@
 //sorting using quick sort in C++ language
-
+//decrease and conquer
 #include <iostream>
 using namespace std;
 
